@@ -7,6 +7,6 @@ Its an FPGA-based gate driver controller. It produces up to three pairs of PWMs 
 
 ## Example Scenario (Full-bridge PWMs)
 <p align="center">
-<img width="600" src= "https://github.com/Awesama-T/Gate_Driver_Controller/assets/121259619/f336269a-f7ef-4eb6-a10a-33cc85a27493">
+<img width="600" src= "https://github.com/Awesama-T/Gate_Driver_Controller/assets/121259619/5fa39084-d53f-46e6-b1e6-6f1259ce061f">
 </p>
 
