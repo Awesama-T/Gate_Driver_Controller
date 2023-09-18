@@ -5,7 +5,7 @@ Its an FPGA-based gate driver controller. It produces up to three pairs of PWMs 
 <img width="600" src= "https://github.com/Awesama-T/Gate_Driver_Controller/assets/121259619/05044c83-8e1c-46fc-85ad-9b1e768b49fa">
 </p>
 
-## Example Scenario (Dead-time Insertion)
+## Example Scenario (Full-bridge PWMs)
 <p align="center">
 <img width="600" src= "https://github.com/Awesama-T/Gate_Driver_Controller/assets/121259619/f336269a-f7ef-4eb6-a10a-33cc85a27493">
 </p>
