@@ -10,3 +10,10 @@ Its an FPGA-based gate driver controller. It produces up to three pairs of PWMs 
 <img width="600" src= "https://github.com/Awesama-T/Gate_Driver_Controller/assets/121259619/5fa39084-d53f-46e6-b1e6-6f1259ce061f">
 </p>
 
+## Prototype Board
+<p align="center">
+<img width="600" src= "![Gate Driver](https://github.com/Awesama-T/Gate_Driver_Controller/assets/121259619/decf5e14-4376-4037-a1f4-96f4c4d5a69b)
+">
+</p>
+
+
